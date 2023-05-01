@@ -1,0 +1,15 @@
+.hero-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 80px;
+  max-width: 1300px;
+}
+
+.hero-container .left {
+  margin-right: 40px;
+}
+
+.hero-container .h1 {
+  color: #ffffff;
+}/*# sourceMappingURL=hero.css.map */

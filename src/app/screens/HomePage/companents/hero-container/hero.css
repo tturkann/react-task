@@ -1,0 +1,63 @@
+.hero-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 80px;
+  max-width: 1300px;
+}
+
+.hero-container .left {
+  margin-right: 40px;
+}
+
+.hero-container .h1 {
+  color: #ffffff;
+}
+
+.button2 {
+  display: flex;
+  gap: 50px;
+  align-items: center;
+}
+
+.button3 {
+  background-color: #ffca42;
+  border: none;
+  color: #1b3764;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 0;
+  cursor: pointer;
+  padding: 8px 22px;
+  height: 40px;
+  width: 140px;
+  font-family: "Cardo", serif;
+}
+
+.h4 {
+  color: white;
+  margin-right: 70px;
+}
+
+.left {
+  margin-right: 333px;
+  margin-top: -100px;
+}
+
+.book1 {
+  width: 450px;
+  margin-top: 85px;
+  margin-bottom: 115px;
+}
+
+.details {
+  width: 350px;
+  margin-top: 13px;
+}
+
+.h4 {
+  color: white;
+  margin-right: 70px;
+}/*# sourceMappingURL=hero.css.map */
